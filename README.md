@@ -1,4 +1,4 @@
-Fork of Hetty Proxy 
-[Hetty](https://github.com/dstotijn/hetty)
+Fork of Hetty Proxy
+[Link to Hetty Repo](https://github.com/dstotijn/hetty)
 
-Justin Starting May 7, 2026
+Just Starting May 7, 2026....
